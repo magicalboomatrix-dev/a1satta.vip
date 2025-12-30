@@ -192,12 +192,6 @@ const UpcomingResults = ({ loadingInitial }) => {
   );
 };
 
-
-
-
-
-
-
   return (
     <div>
       <section className="circlebox">
@@ -588,4 +582,5 @@ The most educational site about SATTA KING, A1 Satta is here! With this guide,
 };
 
 export default Home;
+
 
